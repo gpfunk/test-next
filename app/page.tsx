@@ -10,6 +10,7 @@ export default function Home() {
         <Link href={`/${randomUUID()}`}>Go to User</Link>
         <Link href={`/${randomUUID()}`}>Go to User</Link>
         <Link href={`/${randomUUID()}`}>Go to User</Link>
+        <Link href={`/${randomUUID()}`}>Go to User</Link>
       </main>
     </div>
   );
