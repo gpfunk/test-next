@@ -1,4 +1,4 @@
-export default async function ({ params }) {
+export default async function ({ params }: { params: any }) {
   return (
     <div>
       {params?.id}
